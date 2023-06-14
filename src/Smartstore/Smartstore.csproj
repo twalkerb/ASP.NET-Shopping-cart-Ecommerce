@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
 	<Import Project="..\Smartstore.Build\Smartstore.Common.props" />
 
@@ -38,7 +38,7 @@
         <PackageReference Include="Microsoft.Extensions.DependencyModel" Version="6.0.0" />
         <PackageReference Include="ncrontab" Version="3.3.1" />
         <PackageReference Include="Newtonsoft.Json.Bson" Version="1.0.2" />
-        <PackageReference Include="NuGet.Protocol" Version="6.2.2" />
+        <PackageReference Include="NuGet.Protocol" Version="6.2.4" />
         <PackageReference Include="SixLabors.ImageSharp" Version="2.0.0" />
         <PackageReference Include="System.IO.FileSystem.AccessControl" Version="5.0.0" />
         <PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.15" />
